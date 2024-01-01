@@ -4,7 +4,7 @@
 
 layout: home
 ---
-# Website title
+# Oncology is Easy
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sem viverra aliquet eget sit amet tellus cras adipiscing. Dui sapien eget mi proin sed libero. Quis hendrerit dolor magna eget est. Sodales neque sodales ut etiam sit. Metus aliquam eleifend mi in nulla. Praesent semper feugiat nibh sed pulvinar proin gravida hendrerit lectus. Ipsum nunc aliquet bibendum enim facilisis gravida neque. Enim nec dui nunc mattis enim ut tellus. Enim blandit volutpat maecenas volutpat blandit aliquam etiam erat. Quis hendrerit dolor magna eget. Felis eget velit aliquet sagittis. Imperdiet dui accumsan sit amet nulla facilisi morbi. Hendrerit gravida rutrum quisque non tellus orci ac. Et leo duis ut diam quam nulla porttitor. At in tellus integer feugiat. Neque gravida in fermentum et. Sed risus ultricies tristique nulla aliquet enim tortor.
 

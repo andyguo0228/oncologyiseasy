@@ -3,7 +3,12 @@ layout: page
 title: Macros
 ---
 # Macros
+{: .no_toc}
 
+Table of Contents
+{: .text-delta}
+* TOC
+{:toc}
 ```markdown
 #Carry Over Chief Complaint
 |DH_CC_VN2021|
