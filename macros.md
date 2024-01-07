@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Macros
+
+# has_children: true
+# has_toc: true
 ---
 # Macros
 {: .no_toc}
