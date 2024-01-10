@@ -15,3 +15,8 @@ FoundationOne CDx is a genomic profiling test for solid tumors, identifying mole
 ## How to order FoundationOne CDx on OncoEMR
 * On the Treatment Plan page, select New orders
 * Search for FoundationOne CDx
+* Select the diagnosis and disease status
+* Select the pathology report, specimen retrieval, and specimen selection
+* Select additional tests (i.e. PDL1) if needed
+* Under Additional information, select Add documents and attach the required forms. 
+* Check I agree, then select Add as ready to submit
