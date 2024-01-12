@@ -9,6 +9,7 @@ nav_order: 2
 ## FoundationOne CDx
 FoundationOne CDx is a genomic profiling test for solid tumors, identifying molecular alterations to guide targeted and immunotherapy treatments.
 > [Order FoundationOne CDx on OncoEMR](/docs/guide/foundationone.html)
+
 - [FoundationOne Portal](https://home.foundationmedicine.com/login)
 - [Requisition Form](https://assets.ctfassets.net/w98cd481qyp0/6owgilIzUgyTujIVcRHTJs/13884484d7509d0561a9ad7bf20a483b/Universal_TRF_Interactive.pdf)
 - [Specimen Release Form](https://assets.ctfassets.net/w98cd481qyp0/7JzKC8TNALu7FWAcxsziqb/374fbe590e03b2d5decab38d05777e27/Specimen_Release_Consent_Form.pdf)
@@ -16,6 +17,8 @@ FoundationOne CDx is a genomic profiling test for solid tumors, identifying mole
 
 ## Guardant Health
 Guardant Health provides advanced liquid biopsy tests such as Guardant 360 and Guardant Reveal for genomic profiling and cancer management.
+> [Order Guardant Health on OncoEMR](/docs/guide/guardant.html)
+
 - [Guardant Health Portal](https://portal.guardanthealth.com/sign_in)
 - [Guardant ABN](https://www.guardantcomplete.com/assets/pdf/FRM-000123_R7_Advance_Beneficiary%20Notice_of_Noncoverage.pdf)
 

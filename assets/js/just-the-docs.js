@@ -580,6 +580,7 @@ jtd.onReady(function(){
 
 });
 
+
 {%- endif %}
 
 })(window.jtd = window.jtd || {});
