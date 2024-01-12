@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: https://oncologyiseasy.com
 
 theme: just-the-docs
-favicon_ico: "/favicon/favicon.ico"
+# favicon_ico: "/favicon/favicon.ico"
 # Build settings
 # theme: just-the-docs
 plugins:
