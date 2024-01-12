@@ -4,6 +4,7 @@
 
 layout: home
 ---
-# Oncology is Easy
 
-Oncology is easy, getting what you need done, now that's hard. This is a collection of things I've found helpful working in oncology over the years and I hope that it can serve as a reference for others to make life a bit easier. 
+Hi there 👋
+---
+Oncology is easy, getting what you need done, now that's hard. This is a collection of resources and information I've found helpful working in oncology over the years and I hope that it can serve as a reference for others to make life a bit easier. 
