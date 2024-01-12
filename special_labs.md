@@ -2,6 +2,7 @@
 layout: page
 title: Special Labs
 has_children: true
+nav_order: 2
 ---
 # Special Labs
 

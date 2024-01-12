@@ -11,6 +11,9 @@ FoundationOne CDx is a genomic profiling test for solid tumors, identifying mole
 * [FoundationOne ABN](https://assets.ctfassets.net/w98cd481qyp0/2sDK3JAu6WQrGirc2OnAcr/e9a477779c3e75525c2847a36e44c722/Medicare_ABN_INTERACTIVE_ABNEnglish_01312026_508_DIGITAL.pdf) - Required for patients with **Medicare** insurance. 
 * [No Surprise Bill](/assets/docs/nsb.pdf) - Required for specimens at **Northwell Health** facility.
 
+{: .label}
+note
+
 > I recommend completing and uploading the required forms prior to ordering the test so that it can be attached with the order. 
 
 ## How to order FoundationOne CDx on OncoEMR
