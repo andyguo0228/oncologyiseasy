@@ -13,14 +13,37 @@
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-
+  <!-- <script>
+    // Immediately set the theme on page load
+    var currentTheme = localStorage.getItem('theme') || 'light'; // Default to light theme if none is set
+    jtd.setTheme(currentTheme);
+  
+    // Function to toggle theme
+    function toggleTheme() {
+      currentTheme = jtd.getTheme();
+      var newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+      jtd.setTheme(newTheme);
+      localStorage.setItem('theme', newTheme);
+    }
+  
+    // Attach the event listener after the DOM is loaded
+    document.addEventListener('DOMContentLoaded', function() {
+      var themeToggle = document.getElementById('theme-toggle');
+      if (themeToggle) {
+        themeToggle.addEventListener('click', toggleTheme);
+      }
+    });
+  </script> -->
+  <script src="{{ '/assets/js/themeswitch.js' | relative_url }}"></script>
+  
   <link rel="stylesheet" type="text/css" href="{{ '/assets/css/just-the-docs-default.css' | relative_url }}">
 
-  <link rel="stylesheet" type="text/css" href="{{ '/assets/css/just-the-docs-head-nav.css' | relative_url }}" id="jtd-head-nav-stylesheet">
 
-  <style id="jtd-nav-activation">
+  <!-- <link rel="stylesheet" type="text/css" href="{{ '/assets/css/just-the-docs-head-nav.css' | relative_url }}" id="jtd-head-nav-stylesheet"> -->
+
+  <!-- <style id="jtd-nav-activation">
   {% include css/activation.scss.liquid %}
-  </style>
+  </style> -->
 
   {% if site.ga_tracking != nil %}
     {% assign ga_tracking_ids = site.ga_tracking | split: "," %}
@@ -41,8 +64,6 @@
   {% endif %}
 
   <script src="{{ '/assets/js/just-the-docs.js' | relative_url }}"></script>
-
-  <script src="{{ '/assets/js/themeswitch.js' | relative_url }}"></script>
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
 

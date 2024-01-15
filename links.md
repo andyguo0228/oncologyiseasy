@@ -6,23 +6,22 @@ title: Useful Links
 # Useful Links
 
 ## Radiology Portals
+<a href='https://doctor.mainstreetradiology.com:8443/pureweb/server/login.jsp' target='_blank' ref='noopener noreferrer'>Main Street Radiology</a>
 
-[Main Street Radiology](https://doctor.mainstreetradiology.com:8443/pureweb/server/login.jsp)
+<a href="https://synapseris.mainstreetradiology.com//admin.aspx?ReturnUrl=%2f" target="_blank" rel="noopener noreferrer">Main Street Radiology Schedule</a>
 
-[Main Street Radiology Schedule](https://synapseris.mainstreetradiology.com//admin.aspx?ReturnUrl=%2f)
+<a href="https://www.myradiologypatients.com/pls/portallhr/f?p=145:LOGIN::::::" target="_blank" rel="noopener noreferrer">Lenox Hill Radiology</a>
 
-[Lenox Hill Radiology](https://www.myradiologypatients.com/pls/portallhr/f?p=145:LOGIN::::::)
-
-[Zwanger-Pesiri Radiology](https://connect.zprad.com/user/login?destination=/viewer)
+<a href="https://connect.zprad.com/user/login?destination=/viewer" target="_blank" rel="noopener noreferrer">Zwanger-Pesiri Radiology</a>
 
 ## Hospital Portals
 
-[NYPQ Login](https://apps.nyp.org/vpn/index.html)
+<a href="https://apps.nyp.org/vpn/index.html" target="_blank" rel="noopener noreferrer">NYPQ Login</a>
 
-[HIE Clinical Viewer](http://scmclinicalviewer/csp/healthshare/access/CUSTOM.ACCESS01.UI.PatientSearch.cls)
+<a href="http://scmclinicalviewer/csp/healthshare/access/CUSTOM.ACCESS01.UI.PatientSearch.cls" target="_blank" rel="noopener noreferrer">HIE Clinical Viewer</a>
 
 ## Other stuff
 
-[NCCN Clinical Practice Guidelines in Oncology](https://www.nccn.org/professionals/physician_gls/default.aspx)
+<a href="https://www.nccn.org/professionals/physician_gls/default.aspx" target="_blank" rel="noopener noreferrer">NCCN Clinical Practice Guidelines in Oncology</a>
 
-[UpToDate](https://www.uptodate.com/contents/search)
+<a href="https://www.uptodate.com/contents/search" target="_blank" rel="noopener noreferrer">UpToDate</a>
