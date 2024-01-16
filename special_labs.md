@@ -4,7 +4,7 @@ title: Special Labs
 has_children: true
 nav_order: 2
 ---
-# Special Labs
+# Special Labs 🔬
 
 ## FoundationOne CDx
 FoundationOne CDx is a genomic profiling test for solid tumors, identifying molecular alterations to guide targeted and immunotherapy treatments.

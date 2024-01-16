@@ -2,7 +2,7 @@
 layout: page
 title: Blood Transfusion
 ---
-# Blood Transfusion
+# Blood Transfusion 🩸
 Center for Advanced Medicine, R.J. Zuckerberg Cancer Center  
 450 Lakeville Road, Entrance B  
 Lake Success, NY 11042  
