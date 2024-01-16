@@ -10,8 +10,8 @@ Tel: (516)734-8888
 Fax: (516)734-8861
 
 ## Required Documents
-* Consent form (good for 1 year)
-* [Transfusion order form](/assets/docs/transfusion_order.pdf)
+* <a href='/assets/docs/transfusion_consent.pdf' target='_blank' ref='noopener noreferrer'>Transfusion Consent Form</a> (good for 1 year)
+* <a href='/assets/docs/transfusion_order.pdf' target='_blank' ref='noopener noreferrer'> Transfusion Order Form</a>
   * Date = date of transfusion, NOT today's date
 * Script for blood transfusion
 * Script for type and cross
