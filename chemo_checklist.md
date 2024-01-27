@@ -9,6 +9,7 @@ Obtain the following for patients who will be starting new chemotherapy.
 - [ ] CMP
 - [ ] Hepatitis panel
 - [ ] EKG
+- [ ] Consent
 
 Cardiotoxic? (e.g. trastuzumab, doxorubicin, carfilzomib)
 - [ ] Echo or MUGA

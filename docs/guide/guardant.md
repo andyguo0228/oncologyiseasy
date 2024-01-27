@@ -1,5 +1,5 @@
 ---
-title: Guardant Health on OncoEMR
+title: Guardant Health
 layout: page
 parent: Special Labs
 ---

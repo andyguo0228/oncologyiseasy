@@ -1,5 +1,5 @@
 ---
-title: FoundationOne on OncoEMR
+title: FoundationOne
 layout: page
 parent: Special Labs
 ---
