@@ -24,6 +24,13 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
 end
 
+# Ruby 3.4+ no longer ships certain stdlib gems by default.
+# Jekyll requires `csv`, and `logger` avoids warnings on newer Rubies.
+gem "csv", "~> 3.3"
+gem "logger", "~> 1.6"
+gem "base64", "~> 0.2"
+gem "bigdecimal", "~> 3.1"
+
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
