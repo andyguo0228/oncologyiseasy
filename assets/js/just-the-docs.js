@@ -5,6 +5,7 @@
 // Event handling
 
 jtd.addEvent = function(el, type, handler) {
+  if (!el) return; // Guard against null elements
   if (el.attachEvent) el.attachEvent('on'+type, handler); else el.addEventListener(type, handler);
 }
 jtd.removeEvent = function(el, type, handler) {
